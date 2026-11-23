@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T01:03:39.104Z",
+  "generated_at": "2026-11-23T18:50:43.076Z",
   "items": {
     "problem:83": {
       "kind": "problem",
@@ -63,6 +63,17 @@
       "path": "math/0012-inverse-and-rank",
       "first_solved_at": "2026-11-23T01:03:38.612Z",
       "last_pushed_at": "2026-11-23T01:03:38.612Z"
+    },
+    "math:8": {
+      "kind": "math",
+      "id": "8",
+      "title": "Vector Norms and Linear Independence",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/8",
+      "path": "math/0008-vector-norms-and-linear-independence",
+      "first_solved_at": "2026-11-23T18:50:41.772Z",
+      "last_pushed_at": "2026-11-23T18:50:41.772Z"
     }
   }
 }

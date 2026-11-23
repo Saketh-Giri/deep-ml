@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**5** solved · 4 problems · 0 labs · 1 math
+**6** solved · 4 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -22,6 +22,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-11-23 | [solution](math/0012-inverse-and-rank) |
+| [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-11-23 | [solution](math/0008-vector-norms-and-linear-independence) |
 
 ---
 
