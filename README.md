@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**33** solved · 18 problems · 0 labs · 15 math
+**34** solved · 18 problems · 0 labs · 16 math
 
 ![Coverage](./coverage.svg)
 
@@ -40,6 +40,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Expectation and Variance Algebra](https://www.deep-ml.com/math-problems/33) | easy | 2026-11-25 | [solution](math/0033-expectation-and-variance-algebra) |
 | [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-11-23 | [solution](math/0005-gradient-descent-updates) |
 | [Probability Fundamentals](https://www.deep-ml.com/math-problems/19) | easy | 2026-11-25 | [solution](math/0019-probability-fundamentals) |
+| [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-11-28 | [solution](math/0004-backpropagation-and-the-chain-rule) |
 | [Covariance and Correlation](https://www.deep-ml.com/math-problems/17) | medium | 2026-11-25 | [solution](math/0017-covariance-and-correlation) |
 | [Determinants and Trace](https://www.deep-ml.com/math-problems/11) | medium | 2026-11-25 | [solution](math/0011-determinants-and-trace) |
 | [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-11-23 | [solution](math/0012-inverse-and-rank) |
