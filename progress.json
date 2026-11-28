@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T00:51:42.179Z",
+  "generated_at": "2026-11-28T01:40:42.843Z",
   "items": {
     "problem:83": {
       "kind": "problem",
@@ -410,6 +410,17 @@
       "path": "math/0004-backpropagation-and-the-chain-rule",
       "first_solved_at": "2026-11-28T00:51:41.712Z",
       "last_pushed_at": "2026-11-28T00:51:41.712Z"
+    },
+    "math:155": {
+      "kind": "math",
+      "id": "155",
+      "title": "The Fourier Transform and the Convolution Theorem",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/155",
+      "path": "math/0155-the-fourier-transform-and-the-convolution-theorem",
+      "first_solved_at": "2026-11-28T01:40:42.311Z",
+      "last_pushed_at": "2026-11-28T01:40:42.311Z"
     }
   }
 }
